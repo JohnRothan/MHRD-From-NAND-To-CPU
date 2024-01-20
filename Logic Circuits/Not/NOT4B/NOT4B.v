@@ -1,5 +1,5 @@
 Inputs : in[4];
-outputs: out[4];
+Outputs: out[4];
 
 //1. specify the components you want to use here
 Parts:
